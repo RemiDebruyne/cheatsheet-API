@@ -5,7 +5,10 @@
   - [Table of content](#table-of-content)
 
 ## MVC model
-
+- `view` : The client interface
+- `controller` : Receive instruction from the view/client, gets the information from the model, translates it then sends it to the view
+- `model` : Interprete the database
+![mvc](images/model-mvc.png)
 
 ## What is an API
 
